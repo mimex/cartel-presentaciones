@@ -1,7 +1,7 @@
-cabal-cartel
+cartel-presentaciones
 =============
 
-Cartel para las presentaciones de Linux Cabal 2014
+Cartel para las presentaciones de LinuxCabal 2014
 
 fuentes
 -------
