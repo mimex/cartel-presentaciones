@@ -17,7 +17,7 @@
    sodipodi:version="0.32"
    inkscape:version="0.48.4 r9939"
    version="1.0"
-   sodipodi:docname="plantillas-cartel.svg"
+   sodipodi:docname="201408-cartel.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="./cartel-presentaciones.png"
    inkscape:export-xdpi="300"
@@ -2290,12 +2290,12 @@
      inkscape:current-layer="layer2"
      width="500px"
      height="300px"
-     inkscape:window-width="1920"
-     inkscape:window-height="921"
+     inkscape:window-width="1364"
+     inkscape:window-height="751"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="15"
      showgrid="false"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true" />
   <metadata
@@ -2811,7 +2811,7 @@
        transform="translate(-662.30446,-254.53034)">
       <path
          transform="matrix(-0.2525236,-0.9675907,-0.9675907,0.2525236,1011.6532,-162.64687)"
-         d="m 51.26449,45.530983 a 5.6239529,7.6788583 0 1 1 -11.247906,0 5.6239529,7.6788583 0 1 1 11.247906,0 z"
+         d="m 51.26449,45.530983 c 0,4.240916 -2.517929,7.678858 -5.623953,7.678858 -3.106023,0 -5.623953,-3.437942 -5.623953,-7.678858 0,-4.240916 2.51793,-7.678858 5.623953,-7.678858 3.106024,0 5.623953,3.437942 5.623953,7.678858 z"
          sodipodi:ry="7.6788583"
          sodipodi:rx="5.6239529"
          sodipodi:cy="45.530983"
@@ -2907,7 +2907,7 @@
          inkscape:connector-curvature="0" />
       <path
          transform="matrix(0.9500704,0.3120356,-0.3120356,0.9500704,860.55705,-237.61892)"
-         d="m 51.26449,45.530983 a 5.6239529,7.6788583 0 1 1 -11.247906,0 5.6239529,7.6788583 0 1 1 11.247906,0 z"
+         d="m 51.26449,45.530983 c 0,4.240916 -2.517929,7.678858 -5.623953,7.678858 -3.106023,0 -5.623953,-3.437942 -5.623953,-7.678858 0,-4.240916 2.51793,-7.678858 5.623953,-7.678858 3.106024,0 5.623953,3.437942 5.623953,7.678858 z"
          sodipodi:ry="7.6788583"
          sodipodi:rx="5.6239529"
          sodipodi:cy="45.530983"
@@ -2917,7 +2917,7 @@
          sodipodi:type="arc" />
       <path
          transform="matrix(-0.9500704,0.3120356,0.3120356,0.9500704,917.78439,-131.08828)"
-         d="m 51.26449,45.530983 a 5.6239529,7.6788583 0 1 1 -11.247906,0 5.6239529,7.6788583 0 1 1 11.247906,0 z"
+         d="m 51.26449,45.530983 c 0,4.240916 -2.517929,7.678858 -5.623953,7.678858 -3.106023,0 -5.623953,-3.437942 -5.623953,-7.678858 0,-4.240916 2.51793,-7.678858 5.623953,-7.678858 3.106024,0 5.623953,3.437942 5.623953,7.678858 z"
          sodipodi:ry="7.6788583"
          sodipodi:rx="5.6239529"
          sodipodi:cy="45.530983"
@@ -2927,7 +2927,7 @@
          sodipodi:type="arc" />
       <path
          transform="matrix(0.9500704,0.3120356,-0.3120356,0.9500704,1162.7364,-131.52089)"
-         d="m 51.26449,45.530983 a 5.6239529,7.6788583 0 1 1 -11.247906,0 5.6239529,7.6788583 0 1 1 11.247906,0 z"
+         d="m 51.26449,45.530983 c 0,4.240916 -2.517929,7.678858 -5.623953,7.678858 -3.106023,0 -5.623953,-3.437942 -5.623953,-7.678858 0,-4.240916 2.51793,-7.678858 5.623953,-7.678858 3.106024,0 5.623953,3.437942 5.623953,7.678858 z"
          sodipodi:ry="7.6788583"
          sodipodi:rx="5.6239529"
          sodipodi:cy="45.530983"
@@ -2937,7 +2937,7 @@
          sodipodi:type="arc" />
       <path
          transform="matrix(0.9500704,0.3120356,-0.3120356,0.9500704,996.18083,-102.3196)"
-         d="m 51.26449,45.530983 a 5.6239529,7.6788583 0 1 1 -11.247906,0 5.6239529,7.6788583 0 1 1 11.247906,0 z"
+         d="m 51.26449,45.530983 c 0,4.240916 -2.517929,7.678858 -5.623953,7.678858 -3.106023,0 -5.623953,-3.437942 -5.623953,-7.678858 0,-4.240916 2.51793,-7.678858 5.623953,-7.678858 3.106024,0 5.623953,3.437942 5.623953,7.678858 z"
          sodipodi:ry="7.6788583"
          sodipodi:rx="5.6239529"
          sodipodi:cy="45.530983"
@@ -2947,7 +2947,7 @@
          sodipodi:type="arc" />
       <path
          transform="matrix(-0.9500704,0.3120356,0.3120356,0.9500704,1081.7442,-101.67068)"
-         d="m 51.26449,45.530983 a 5.6239529,7.6788583 0 1 1 -11.247906,0 5.6239529,7.6788583 0 1 1 11.247906,0 z"
+         d="m 51.26449,45.530983 c 0,4.240916 -2.517929,7.678858 -5.623953,7.678858 -3.106023,0 -5.623953,-3.437942 -5.623953,-7.678858 0,-4.240916 2.51793,-7.678858 5.623953,-7.678858 3.106024,0 5.623953,3.437942 5.623953,7.678858 z"
          sodipodi:ry="7.6788583"
          sodipodi:rx="5.6239529"
          sodipodi:cy="45.530983"
@@ -2957,7 +2957,7 @@
          sodipodi:type="arc" />
       <path
          transform="matrix(-0.1154405,0.9933144,-0.9933144,-0.1154405,1177.0618,-100.25749)"
-         d="m 51.26449,45.530983 a 5.6239529,7.6788583 0 1 1 -11.247906,0 5.6239529,7.6788583 0 1 1 11.247906,0 z"
+         d="m 51.26449,45.530983 c 0,4.240916 -2.517929,7.678858 -5.623953,7.678858 -3.106023,0 -5.623953,-3.437942 -5.623953,-7.678858 0,-4.240916 2.51793,-7.678858 5.623953,-7.678858 3.106024,0 5.623953,3.437942 5.623953,7.678858 z"
          sodipodi:ry="7.6788583"
          sodipodi:rx="5.6239529"
          sodipodi:cy="45.530983"
@@ -2967,7 +2967,7 @@
          sodipodi:type="arc" />
       <path
          transform="matrix(0.9500704,-0.3120356,-0.3120356,-0.9500704,1000.0294,-152.95288)"
-         d="m 51.26449,45.530983 a 5.6239529,7.6788583 0 1 1 -11.247906,0 5.6239529,7.6788583 0 1 1 11.247906,0 z"
+         d="m 51.26449,45.530983 c 0,4.240916 -2.517929,7.678858 -5.623953,7.678858 -3.106023,0 -5.623953,-3.437942 -5.623953,-7.678858 0,-4.240916 2.51793,-7.678858 5.623953,-7.678858 3.106024,0 5.623953,3.437942 5.623953,7.678858 z"
          sodipodi:ry="7.6788583"
          sodipodi:rx="5.6239529"
          sodipodi:cy="45.530983"
@@ -2977,7 +2977,7 @@
          sodipodi:type="arc" />
       <path
          transform="matrix(-0.9500704,-0.3120356,0.3120356,-0.9500704,1085.5929,-153.60181)"
-         d="m 51.26449,45.530983 a 5.6239529,7.6788583 0 1 1 -11.247906,0 5.6239529,7.6788583 0 1 1 11.247906,0 z"
+         d="m 51.26449,45.530983 c 0,4.240916 -2.517929,7.678858 -5.623953,7.678858 -3.106023,0 -5.623953,-3.437942 -5.623953,-7.678858 0,-4.240916 2.51793,-7.678858 5.623953,-7.678858 3.106024,0 5.623953,3.437942 5.623953,7.678858 z"
          sodipodi:ry="7.6788583"
          sodipodi:rx="5.6239529"
          sodipodi:cy="45.530983"
@@ -2987,7 +2987,7 @@
          sodipodi:type="arc" />
       <path
          transform="matrix(-0.1154405,-0.9933144,-0.9933144,0.1154405,1180.9104,-155.01499)"
-         d="m 51.26449,45.530983 a 5.6239529,7.6788583 0 1 1 -11.247906,0 5.6239529,7.6788583 0 1 1 11.247906,0 z"
+         d="m 51.26449,45.530983 c 0,4.240916 -2.517929,7.678858 -5.623953,7.678858 -3.106023,0 -5.623953,-3.437942 -5.623953,-7.678858 0,-4.240916 2.51793,-7.678858 5.623953,-7.678858 3.106024,0 5.623953,3.437942 5.623953,7.678858 z"
          sodipodi:ry="7.6788583"
          sodipodi:rx="5.6239529"
          sodipodi:cy="45.530983"
@@ -2997,7 +2997,7 @@
          sodipodi:type="arc" />
       <path
          transform="matrix(-0.9500704,0.3120356,0.3120356,0.9500704,1222.0438,-237.33697)"
-         d="m 51.26449,45.530983 a 5.6239529,7.6788583 0 1 1 -11.247906,0 5.6239529,7.6788583 0 1 1 11.247906,0 z"
+         d="m 51.26449,45.530983 c 0,4.240916 -2.517929,7.678858 -5.623953,7.678858 -3.106023,0 -5.623953,-3.437942 -5.623953,-7.678858 0,-4.240916 2.51793,-7.678858 5.623953,-7.678858 3.106024,0 5.623953,3.437942 5.623953,7.678858 z"
          sodipodi:ry="7.6788583"
          sodipodi:rx="5.6239529"
          sodipodi:cy="45.530983"
@@ -3007,7 +3007,7 @@
          sodipodi:type="arc" />
       <path
          transform="matrix(-0.2525236,0.9675907,-0.9675907,-0.2525236,1007.8046,-92.62561)"
-         d="m 51.26449,45.530983 a 5.6239529,7.6788583 0 1 1 -11.247906,0 5.6239529,7.6788583 0 1 1 11.247906,0 z"
+         d="m 51.26449,45.530983 c 0,4.240916 -2.517929,7.678858 -5.623953,7.678858 -3.106023,0 -5.623953,-3.437942 -5.623953,-7.678858 0,-4.240916 2.51793,-7.678858 5.623953,-7.678858 3.106024,0 5.623953,3.437942 5.623953,7.678858 z"
          sodipodi:ry="7.6788583"
          sodipodi:rx="5.6239529"
          sodipodi:cy="45.530983"
@@ -3051,121 +3051,121 @@
     <text
        xml:space="preserve"
        style="font-size:47.06647491px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:PT Sans Narrow;-inkscape-font-specification:PT Sans Narrow Bold Condensed"
-       x="152.17781"
+       x="84.177811"
        y="-56.740906"
        id="text8836"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan8838"
-         x="152.17781"
+         x="84.177811"
          y="-56.740906"
          style="font-size:21.17991447px;text-align:center;text-anchor:middle;fill:#333333">Clonezilla</tspan><tspan
          sodipodi:role="line"
-         x="154.43231"
+         x="86.432312"
          y="-30.266012"
          style="font-size:21.17991447px;font-weight:normal;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:PT Sans Narrow Condensed"
          id="tspan9167">Patricio Páez </tspan><tspan
          sodipodi:role="line"
-         x="152.17781"
+         x="84.177811"
          y="-3.7911196"
          id="tspan8842"
          style="font-size:21.17991447px;font-weight:normal;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:PT Sans Narrow Condensed">2-ago 5pm</tspan><tspan
          sodipodi:role="line"
-         x="152.17781"
+         x="84.177811"
          y="22.683773"
          id="tspan8844"
          style="font-size:21.17991447px;fill:#333333" /><tspan
          sodipodi:role="line"
-         x="152.17781"
+         x="84.177811"
          y="49.158669"
          id="tspan8852"
          style="font-size:21.17991447px;font-weight:normal;fill:#333333;-inkscape-font-specification:PT Sans Narrow Condensed" /><tspan
          sodipodi:role="line"
-         x="152.17781"
+         x="84.177811"
          y="75.63356"
          id="tspan8874"
          style="font-size:21.17991447px;fill:#333333" /></text>
     <text
        xml:space="preserve"
        style="font-size:21.17991447px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:PT Sans Narrow;-inkscape-font-specification:PT Sans Narrow Bold Condensed"
-       x="640.50403"
+       x="534.50403"
        y="-83.512314"
        id="text9002"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan9004"
-         x="640.50403"
+         x="534.50403"
          y="-83.512314" /><tspan
          sodipodi:role="line"
-         x="640.50403"
+         x="534.50403"
          y="-57.037422"
          id="tspan9010"
          style="font-weight:bold;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:PT Sans Narrow Condensed">Linux Kernel for Newbies</tspan><tspan
          id="tspan5165"
          sodipodi:role="line"
-         x="640.50403"
+         x="534.50403"
          y="-30.562527"
          style="font-weight:normal;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:PT Sans Narrow Condensed">Rene Bon Ćirić</tspan><tspan
          id="tspan5167"
          sodipodi:role="line"
-         x="640.50403"
+         x="534.50403"
          y="-4.0876346"
          style="font-weight:normal;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:PT Sans Narrow Condensed">23-ago 5pm</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:21.17991447px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:PT Sans Narrow;-inkscape-font-specification:PT Sans Narrow Bold Condensed"
-       x="304.73929"
+       x="214.73929"
        y="-56.825623"
        id="text9101"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="304.73929"
+         x="214.73929"
          y="-56.825623"
          id="tspan9107"
          style="font-weight:bold;text-align:center;text-anchor:middle;fill:#333333">qemu</tspan><tspan
          id="tspan5147"
          sodipodi:role="line"
-         x="306.9938"
+         x="216.99379"
          y="-30.350729"
          style="font-weight:normal;text-align:center;text-anchor:middle;fill:#333333">Miguel Trujillo </tspan><tspan
          id="tspan5149"
          sodipodi:role="line"
-         x="304.73929"
+         x="214.73929"
          y="-3.8758364"
          style="font-weight:normal;text-align:center;text-anchor:middle;fill:#333333">9-ago 5pm</tspan><tspan
          sodipodi:role="line"
-         x="304.73929"
+         x="214.73929"
          y="22.599056"
          id="tspan9109" /></text>
     <text
        xml:space="preserve"
        style="font-size:21.17991447px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:PT Sans Narrow;-inkscape-font-specification:PT Sans Narrow Bold Condensed"
-       x="461.28247"
+       x="357.28247"
        y="-56.740906"
        id="text9122"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="461.28247"
+         x="357.28247"
          y="-56.740906"
          id="tspan9128"
          style="font-weight:bold;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:PT Sans Narrow Condensed">node.js</tspan><tspan
          id="tspan5156"
          sodipodi:role="line"
-         x="461.28247"
+         x="357.28247"
          y="-30.266012"
          style="font-weight:normal;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:PT Sans Narrow Condensed">Sergio Ezequiel</tspan><tspan
          sodipodi:role="line"
-         x="461.28247"
+         x="357.28247"
          y="-3.7911196"
          style="font-weight:normal;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:PT Sans Narrow Condensed"
          id="tspan3505">Gutiérrez Álvarez</tspan><tspan
          id="tspan5158"
          sodipodi:role="line"
-         x="461.28247"
+         x="357.28247"
          y="22.683773"
          style="font-weight:normal;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:PT Sans Narrow Condensed">16-ago 5pm</tspan><tspan
          sodipodi:role="line"
-         x="461.28247"
+         x="357.28247"
          y="49.158669"
          id="tspan9130" /></text>
     <text
@@ -3180,5 +3180,31 @@
          x="274.06299"
          id="tspan8628-0"
          sodipodi:role="line">Todos los sábados a las 3pm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.17991447px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;display:inline;font-family:PT Sans Narrow;-inkscape-font-specification:PT Sans Narrow Bold Condensed"
+       x="698.34985"
+       y="-83.698242"
+       id="text9002-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9004-5"
+         x="698.34985"
+         y="-83.698242" /><tspan
+         sodipodi:role="line"
+         x="700.52161"
+         y="-57.223351"
+         id="tspan9010-1"
+         style="font-weight:bold;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:PT Sans Narrow Condensed">Wayland </tspan><tspan
+         id="tspan5165-6"
+         sodipodi:role="line"
+         x="700.60437"
+         y="-30.748455"
+         style="font-weight:normal;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:PT Sans Narrow Condensed">Ricardo Meza </tspan><tspan
+         id="tspan5167-6"
+         sodipodi:role="line"
+         x="698.34985"
+         y="-4.2735629"
+         style="font-weight:normal;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:PT Sans Narrow Condensed">30-ago 5pm</tspan></text>
   </g>
 </svg>
