@@ -2284,10 +2284,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0151711"
-     inkscape:cx="151.71094"
-     inkscape:cy="294.15773"
+     inkscape:cx="291.09631"
+     inkscape:cy="254.75551"
      inkscape:document-units="px"
-     inkscape:current-layer="g9161"
+     inkscape:current-layer="layer1"
      width="500px"
      height="300px"
      inkscape:window-width="1364"
@@ -2306,7 +2306,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2315,11 +2315,15 @@
      id="layer2"
      inkscape:label="fondo"
      style="display:inline">
-    <path
-       transform="scale(1,-1)"
+    <rect
+       ry="0"
+       y="-990.4082"
+       x="0.25430465"
+       height="993.79633"
+       width="771.1424"
+       id="rect3096"
        style="fill:#f6ffd5;fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline"
-       d="m 0.25430465,-990.4082 771.14239535,0 0,993.7963226 -771.14239535,0 z"
-       id="rect3096" />
+       transform="scale(1,-1)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3188,19 +3192,19 @@
          x="698.34985"
          y="-83.698242" /><tspan
          sodipodi:role="line"
-         x="700.52161"
+         x="698.34985"
          y="-57.223351"
          id="tspan9010-1"
-         style="font-weight:bold;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:PT Sans Narrow Condensed">Wayland </tspan><tspan
+         style="font-weight:bold;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:PT Sans Narrow Condensed">-</tspan><tspan
          id="tspan5165-6"
          sodipodi:role="line"
-         x="700.60437"
+         x="698.34985"
          y="-30.748455"
-         style="font-weight:normal;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:PT Sans Narrow Condensed">Ricardo Meza </tspan><tspan
+         style="font-weight:normal;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:PT Sans Narrow Condensed">-</tspan><tspan
          id="tspan5167-6"
          sodipodi:role="line"
          x="698.34985"
          y="-4.2735629"
-         style="font-weight:normal;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:PT Sans Narrow Condensed">30-ago 5pm</tspan></text>
+         style="font-weight:normal;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:PT Sans Narrow Condensed">30-ago</tspan></text>
   </g>
 </svg>
