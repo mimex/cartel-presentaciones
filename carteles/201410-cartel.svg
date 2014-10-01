@@ -2283,11 +2283,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="331.83051"
-     inkscape:cy="468.49397"
+     inkscape:zoom="1"
+     inkscape:cx="393.25618"
+     inkscape:cy="360.05174"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      width="500px"
      height="300px"
      inkscape:window-width="1364"
@@ -2595,8 +2595,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,690.00001)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <text
        sodipodi:linespacing="125%"
        id="text5310"
@@ -2819,7 +2818,7 @@
        transform="translate(-662.30446,-246.53034)">
       <path
          transform="matrix(-0.2525236,-0.9675907,-0.9675907,0.2525236,1011.6532,-162.64687)"
-         d="m 51.26449,45.530983 c 0,4.240916 -2.517929,7.678858 -5.623953,7.678858 -3.106023,0 -5.623953,-3.437942 -5.623953,-7.678858 0,-4.240916 2.51793,-7.678858 5.623953,-7.678858 3.106024,0 5.623953,3.437942 5.623953,7.678858 z"
+         d="m 51.26449,45.530983 a 5.6239529,7.6788583 0 1 1 -11.247906,0 5.6239529,7.6788583 0 1 1 11.247906,0 z"
          sodipodi:ry="7.6788583"
          sodipodi:rx="5.6239529"
          sodipodi:cy="45.530983"
@@ -2915,7 +2914,7 @@
          inkscape:connector-curvature="0" />
       <path
          transform="matrix(0.9500704,0.3120356,-0.3120356,0.9500704,860.55705,-237.61892)"
-         d="m 51.26449,45.530983 c 0,4.240916 -2.517929,7.678858 -5.623953,7.678858 -3.106023,0 -5.623953,-3.437942 -5.623953,-7.678858 0,-4.240916 2.51793,-7.678858 5.623953,-7.678858 3.106024,0 5.623953,3.437942 5.623953,7.678858 z"
+         d="m 51.26449,45.530983 a 5.6239529,7.6788583 0 1 1 -11.247906,0 5.6239529,7.6788583 0 1 1 11.247906,0 z"
          sodipodi:ry="7.6788583"
          sodipodi:rx="5.6239529"
          sodipodi:cy="45.530983"
@@ -2925,7 +2924,7 @@
          sodipodi:type="arc" />
       <path
          transform="matrix(-0.9500704,0.3120356,0.3120356,0.9500704,917.78439,-131.08828)"
-         d="m 51.26449,45.530983 c 0,4.240916 -2.517929,7.678858 -5.623953,7.678858 -3.106023,0 -5.623953,-3.437942 -5.623953,-7.678858 0,-4.240916 2.51793,-7.678858 5.623953,-7.678858 3.106024,0 5.623953,3.437942 5.623953,7.678858 z"
+         d="m 51.26449,45.530983 a 5.6239529,7.6788583 0 1 1 -11.247906,0 5.6239529,7.6788583 0 1 1 11.247906,0 z"
          sodipodi:ry="7.6788583"
          sodipodi:rx="5.6239529"
          sodipodi:cy="45.530983"
@@ -2935,7 +2934,7 @@
          sodipodi:type="arc" />
       <path
          transform="matrix(0.9500704,0.3120356,-0.3120356,0.9500704,1162.7364,-131.52089)"
-         d="m 51.26449,45.530983 c 0,4.240916 -2.517929,7.678858 -5.623953,7.678858 -3.106023,0 -5.623953,-3.437942 -5.623953,-7.678858 0,-4.240916 2.51793,-7.678858 5.623953,-7.678858 3.106024,0 5.623953,3.437942 5.623953,7.678858 z"
+         d="m 51.26449,45.530983 a 5.6239529,7.6788583 0 1 1 -11.247906,0 5.6239529,7.6788583 0 1 1 11.247906,0 z"
          sodipodi:ry="7.6788583"
          sodipodi:rx="5.6239529"
          sodipodi:cy="45.530983"
@@ -2945,7 +2944,7 @@
          sodipodi:type="arc" />
       <path
          transform="matrix(0.9500704,0.3120356,-0.3120356,0.9500704,996.18083,-102.3196)"
-         d="m 51.26449,45.530983 c 0,4.240916 -2.517929,7.678858 -5.623953,7.678858 -3.106023,0 -5.623953,-3.437942 -5.623953,-7.678858 0,-4.240916 2.51793,-7.678858 5.623953,-7.678858 3.106024,0 5.623953,3.437942 5.623953,7.678858 z"
+         d="m 51.26449,45.530983 a 5.6239529,7.6788583 0 1 1 -11.247906,0 5.6239529,7.6788583 0 1 1 11.247906,0 z"
          sodipodi:ry="7.6788583"
          sodipodi:rx="5.6239529"
          sodipodi:cy="45.530983"
@@ -2955,7 +2954,7 @@
          sodipodi:type="arc" />
       <path
          transform="matrix(-0.9500704,0.3120356,0.3120356,0.9500704,1081.7442,-101.67068)"
-         d="m 51.26449,45.530983 c 0,4.240916 -2.517929,7.678858 -5.623953,7.678858 -3.106023,0 -5.623953,-3.437942 -5.623953,-7.678858 0,-4.240916 2.51793,-7.678858 5.623953,-7.678858 3.106024,0 5.623953,3.437942 5.623953,7.678858 z"
+         d="m 51.26449,45.530983 a 5.6239529,7.6788583 0 1 1 -11.247906,0 5.6239529,7.6788583 0 1 1 11.247906,0 z"
          sodipodi:ry="7.6788583"
          sodipodi:rx="5.6239529"
          sodipodi:cy="45.530983"
@@ -2965,7 +2964,7 @@
          sodipodi:type="arc" />
       <path
          transform="matrix(-0.1154405,0.9933144,-0.9933144,-0.1154405,1177.0618,-100.25749)"
-         d="m 51.26449,45.530983 c 0,4.240916 -2.517929,7.678858 -5.623953,7.678858 -3.106023,0 -5.623953,-3.437942 -5.623953,-7.678858 0,-4.240916 2.51793,-7.678858 5.623953,-7.678858 3.106024,0 5.623953,3.437942 5.623953,7.678858 z"
+         d="m 51.26449,45.530983 a 5.6239529,7.6788583 0 1 1 -11.247906,0 5.6239529,7.6788583 0 1 1 11.247906,0 z"
          sodipodi:ry="7.6788583"
          sodipodi:rx="5.6239529"
          sodipodi:cy="45.530983"
@@ -2975,7 +2974,7 @@
          sodipodi:type="arc" />
       <path
          transform="matrix(0.9500704,-0.3120356,-0.3120356,-0.9500704,1000.0294,-152.95288)"
-         d="m 51.26449,45.530983 c 0,4.240916 -2.517929,7.678858 -5.623953,7.678858 -3.106023,0 -5.623953,-3.437942 -5.623953,-7.678858 0,-4.240916 2.51793,-7.678858 5.623953,-7.678858 3.106024,0 5.623953,3.437942 5.623953,7.678858 z"
+         d="m 51.26449,45.530983 a 5.6239529,7.6788583 0 1 1 -11.247906,0 5.6239529,7.6788583 0 1 1 11.247906,0 z"
          sodipodi:ry="7.6788583"
          sodipodi:rx="5.6239529"
          sodipodi:cy="45.530983"
@@ -2985,7 +2984,7 @@
          sodipodi:type="arc" />
       <path
          transform="matrix(-0.9500704,-0.3120356,0.3120356,-0.9500704,1085.5929,-153.60181)"
-         d="m 51.26449,45.530983 c 0,4.240916 -2.517929,7.678858 -5.623953,7.678858 -3.106023,0 -5.623953,-3.437942 -5.623953,-7.678858 0,-4.240916 2.51793,-7.678858 5.623953,-7.678858 3.106024,0 5.623953,3.437942 5.623953,7.678858 z"
+         d="m 51.26449,45.530983 a 5.6239529,7.6788583 0 1 1 -11.247906,0 5.6239529,7.6788583 0 1 1 11.247906,0 z"
          sodipodi:ry="7.6788583"
          sodipodi:rx="5.6239529"
          sodipodi:cy="45.530983"
@@ -2995,7 +2994,7 @@
          sodipodi:type="arc" />
       <path
          transform="matrix(-0.1154405,-0.9933144,-0.9933144,0.1154405,1180.9104,-155.01499)"
-         d="m 51.26449,45.530983 c 0,4.240916 -2.517929,7.678858 -5.623953,7.678858 -3.106023,0 -5.623953,-3.437942 -5.623953,-7.678858 0,-4.240916 2.51793,-7.678858 5.623953,-7.678858 3.106024,0 5.623953,3.437942 5.623953,7.678858 z"
+         d="m 51.26449,45.530983 a 5.6239529,7.6788583 0 1 1 -11.247906,0 5.6239529,7.6788583 0 1 1 11.247906,0 z"
          sodipodi:ry="7.6788583"
          sodipodi:rx="5.6239529"
          sodipodi:cy="45.530983"
@@ -3005,7 +3004,7 @@
          sodipodi:type="arc" />
       <path
          transform="matrix(-0.9500704,0.3120356,0.3120356,0.9500704,1222.0438,-237.33697)"
-         d="m 51.26449,45.530983 c 0,4.240916 -2.517929,7.678858 -5.623953,7.678858 -3.106023,0 -5.623953,-3.437942 -5.623953,-7.678858 0,-4.240916 2.51793,-7.678858 5.623953,-7.678858 3.106024,0 5.623953,3.437942 5.623953,7.678858 z"
+         d="m 51.26449,45.530983 a 5.6239529,7.6788583 0 1 1 -11.247906,0 5.6239529,7.6788583 0 1 1 11.247906,0 z"
          sodipodi:ry="7.6788583"
          sodipodi:rx="5.6239529"
          sodipodi:cy="45.530983"
@@ -3015,7 +3014,7 @@
          sodipodi:type="arc" />
       <path
          transform="matrix(-0.2525236,0.9675907,-0.9675907,-0.2525236,1007.8046,-92.62561)"
-         d="m 51.26449,45.530983 c 0,4.240916 -2.517929,7.678858 -5.623953,7.678858 -3.106023,0 -5.623953,-3.437942 -5.623953,-7.678858 0,-4.240916 2.51793,-7.678858 5.623953,-7.678858 3.106024,0 5.623953,3.437942 5.623953,7.678858 z"
+         d="m 51.26449,45.530983 a 5.6239529,7.6788583 0 1 1 -11.247906,0 5.6239529,7.6788583 0 1 1 11.247906,0 z"
          sodipodi:ry="7.6788583"
          sodipodi:rx="5.6239529"
          sodipodi:cy="45.530983"
@@ -3059,96 +3058,96 @@
     <text
        xml:space="preserve"
        style="font-size:55.8169899px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:PT Sans Narrow;-inkscape-font-specification:PT Sans Narrow Bold Condensed"
-       x="189.88081"
-       y="-56.844765"
+       x="300.74823"
+       y="-52.844765"
        id="text8836"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan8838"
-         x="189.88081"
-         y="-56.844765"
-         style="font-size:25.11764526px;text-align:center;text-anchor:middle;fill:#333333">Void Linux</tspan><tspan
+         x="300.74823"
+         y="-52.844765"
+         style="font-size:25.11764526px;text-align:center;text-anchor:middle;fill:#333333">Nagios</tspan><tspan
          sodipodi:role="line"
-         x="189.88081"
-         y="-25.447708"
+         x="300.74823"
+         y="-21.447708"
          style="font-size:25.11764526px;font-weight:normal;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:PT Sans Narrow Condensed"
-         id="tspan9167">Patricio Páez</tspan><tspan
+         id="tspan9167">Luis Enrique Pineda</tspan><tspan
          sodipodi:role="line"
-         x="189.88081"
-         y="2.2408898"
+         x="300.74823"
+         y="6.24089"
          id="tspan8842"
-         style="font-size:21.34652901px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#f54600;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:PT Sans Narrow;-inkscape-font-specification:PT Sans Narrow Condensed">Octubre 4</tspan><tspan
+         style="font-size:21.34652901px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#f54600;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:PT Sans Narrow;-inkscape-font-specification:PT Sans Narrow Condensed">Octubre 11</tspan><tspan
          sodipodi:role="line"
-         x="189.88081"
-         y="28.924051"
+         x="300.74823"
+         y="32.924049"
          id="tspan8844"
          style="font-size:25.11764526px;fill:#333333" /><tspan
          sodipodi:role="line"
-         x="189.88081"
-         y="55.607212"
+         x="300.74823"
+         y="59.607212"
          id="tspan8852"
          style="font-size:25.11764526px;font-weight:normal;fill:#333333;-inkscape-font-specification:PT Sans Narrow Condensed" /><tspan
          sodipodi:role="line"
-         x="189.88081"
-         y="82.290375"
+         x="300.74823"
+         y="86.290375"
          id="tspan8874"
          style="font-size:25.11764526px;fill:#333333" /></text>
     <text
        xml:space="preserve"
        style="font-size:25.11764526px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:PT Sans Narrow;-inkscape-font-specification:PT Sans Narrow Bold Condensed"
-       x="599.42358"
-       y="-88.14135"
+       x="649.42358"
+       y="-84.14135"
        id="text9002"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan9004"
-         x="599.42358"
-         y="-88.14135" /><tspan
+         x="649.42358"
+         y="-84.14135" /><tspan
          sodipodi:role="line"
-         x="599.42358"
-         y="-56.744293"
+         x="649.42358"
+         y="-52.744293"
          id="tspan9010"
          style="font-weight:bold;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:PT Sans Narrow Condensed">Google Go</tspan><tspan
          id="tspan5165"
          sodipodi:role="line"
-         x="599.42358"
-         y="-25.347237"
+         x="649.42358"
+         y="-21.347237"
          style="font-weight:normal;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:PT Sans Narrow Condensed">Angel Jovany</tspan><tspan
          sodipodi:role="line"
-         x="599.42358"
-         y="6.0498199"
+         x="649.42358"
+         y="10.04982"
          style="font-weight:normal;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:PT Sans Narrow Condensed"
          id="tspan3535">Figueroa Ypiña</tspan><tspan
          id="tspan5167"
          sodipodi:role="line"
-         x="599.42358"
-         y="33.738419"
+         x="649.42358"
+         y="37.738419"
          style="font-size:21.34652901px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#f54600;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:PT Sans Narrow;-inkscape-font-specification:PT Sans Narrow Condensed">Octubre 25</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:25.11764526px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:PT Sans Narrow;-inkscape-font-specification:PT Sans Narrow Bold Condensed"
-       x="394.3707"
-       y="-56.844765"
+       x="485.4783"
+       y="-52.844765"
        id="text9122"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="394.3707"
-         y="-56.844765"
+         x="485.4783"
+         y="-52.844765"
          id="tspan9128"
          style="font-weight:bold;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:PT Sans Narrow Condensed">Project Atomic</tspan><tspan
          id="tspan5156"
          sodipodi:role="line"
-         x="394.3707"
-         y="-25.447708"
+         x="485.4783"
+         y="-21.447708"
          style="font-weight:normal;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:PT Sans Narrow Condensed">Renich Bon Ciric</tspan><tspan
          id="tspan5158"
          sodipodi:role="line"
-         x="394.3707"
-         y="2.2408898"
+         x="485.4783"
+         y="6.24089"
          style="font-size:21.34652901px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#f54600;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:PT Sans Narrow;-inkscape-font-specification:PT Sans Narrow Condensed">Octubre 18</tspan><tspan
          sodipodi:role="line"
-         x="394.3707"
-         y="28.924051"
+         x="485.4783"
+         y="32.924049"
          id="tspan9130" /></text>
     <text
        sodipodi:linespacing="125%"
@@ -3186,5 +3185,42 @@
          x="244.84851"
          y="-220.2682"
          style="font-weight:bold;fill:#f54600;-inkscape-font-specification:PT Sans Narrow Bold Condensed">15:00</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:55.8169899px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;display:inline;font-family:PT Sans Narrow;-inkscape-font-specification:PT Sans Narrow Bold Condensed"
+       x="130.35832"
+       y="-52.508553"
+       id="text8836-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8838-1"
+         x="130.35832"
+         y="-52.508553"
+         style="font-size:25.11764526px;text-align:center;text-anchor:middle;fill:#333333">Void Linux</tspan><tspan
+         sodipodi:role="line"
+         x="130.35832"
+         y="-21.111496"
+         style="font-size:25.11764526px;font-weight:normal;text-align:center;text-anchor:middle;fill:#333333;-inkscape-font-specification:PT Sans Narrow Condensed"
+         id="tspan9167-8">Patricio Páez</tspan><tspan
+         sodipodi:role="line"
+         x="130.35832"
+         y="6.5771022"
+         id="tspan8842-6"
+         style="font-size:21.34652901px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#f54600;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:PT Sans Narrow;-inkscape-font-specification:PT Sans Narrow Condensed">Octubre 4</tspan><tspan
+         sodipodi:role="line"
+         x="130.35832"
+         y="33.260262"
+         id="tspan8844-6"
+         style="font-size:25.11764526px;fill:#333333" /><tspan
+         sodipodi:role="line"
+         x="130.35832"
+         y="59.943424"
+         id="tspan8852-0"
+         style="font-size:25.11764526px;font-weight:normal;fill:#333333;-inkscape-font-specification:PT Sans Narrow Condensed" /><tspan
+         sodipodi:role="line"
+         x="130.35832"
+         y="86.626587"
+         id="tspan8874-7"
+         style="font-size:25.11764526px;fill:#333333" /></text>
   </g>
 </svg>
