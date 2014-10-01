@@ -2283,11 +2283,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.71783437"
-     inkscape:cx="497.91744"
-     inkscape:cy="49.361301"
+     inkscape:zoom="0.5"
+     inkscape:cx="331.83051"
+     inkscape:cy="468.49397"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer4"
      width="500px"
      height="300px"
      inkscape:window-width="1364"
@@ -2314,7 +2314,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="fondo"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        ry="0"
        y="-990.4082"
@@ -2322,14 +2323,15 @@
        height="993.79633"
        width="771.1424"
        id="rect3096"
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline"
+       style="fill:#ffffff;stroke:none;display:inline"
        transform="scale(1,-1)" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="pie"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        y="852.88165"
        x="6.5637209e-07"
@@ -2453,7 +2455,7 @@
      style="display:inline">
     <g
        id="g9067"
-       transform="matrix(0.83634097,0,0,0.83634097,120.32587,3.4349427)">
+       transform="matrix(0.83634097,0,0,0.83634097,120.32587,1.4349427)">
       <g
          id="g9178"
          transform="matrix(0.92027666,0,0,0.92027666,61.537217,-0.27525681)">
@@ -2549,7 +2551,7 @@
     </g>
     <g
        id="g9059"
-       transform="matrix(0.70491071,0,0,0.70491071,1.3475249,2.9955894)">
+       transform="matrix(0.70491071,0,0,0.70491071,-0.6524751,2.9955894)">
       <path
          style="opacity:0.98999999;color:#000000;fill:#374845;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33890879;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          inkscape:transform-center-y="85.028104"
@@ -2593,7 +2595,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,690.00001)"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        sodipodi:linespacing="125%"
        id="text5310"
@@ -3072,7 +3075,7 @@
          id="tspan9167">Patricio Páez</tspan><tspan
          sodipodi:role="line"
          x="189.88081"
-         y="2.24089"
+         y="2.2408898"
          id="tspan8842"
          style="font-size:21.34652901px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#f54600;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:PT Sans Narrow;-inkscape-font-specification:PT Sans Narrow Condensed">Octubre 4</tspan><tspan
          sodipodi:role="line"
@@ -3141,7 +3144,7 @@
          id="tspan5158"
          sodipodi:role="line"
          x="394.3707"
-         y="2.24089"
+         y="2.2408898"
          style="font-size:21.34652901px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#f54600;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:PT Sans Narrow;-inkscape-font-specification:PT Sans Narrow Condensed">Octubre 18</tspan><tspan
          sodipodi:role="line"
          x="394.3707"
