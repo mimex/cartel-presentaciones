@@ -17,7 +17,7 @@
    sodipodi:version="0.32"
    inkscape:version="0.48.5 r10040"
    version="1.0"
-   sodipodi:docname="cartel.svg"
+   sodipodi:docname="201412-cartel-curvas.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="./cartel-presentaciones.png"
    inkscape:export-xdpi="300"
@@ -2305,9 +2305,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.76811207"
      inkscape:cx="310.82452"
-     inkscape:cy="504.8949"
+     inkscape:cy="348.6677"
      inkscape:document-units="px"
-     inkscape:current-layer="text9053"
+     inkscape:current-layer="layer1"
      width="500px"
      height="300px"
      inkscape:window-width="1364"
@@ -3261,7 +3261,7 @@
          id="path3166" />
     </g>
     <g
-       style="font-size:13.19627953px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:PT Sans Narrow;-inkscape-font-specification:PT Sans Narrow Bold Condensed"
+       style="font-size:13.19627952999999998px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:PT Sans Narrow;-inkscape-font-specification:PT Sans Narrow Bold Condensed"
        id="text9053">
       <path
          d="m 29.065953,93.286731 -3.483818,0 -0.985322,3.448628 -1.302033,0 3.712554,-12.510073 0.721396,0 3.712554,12.510073 -1.372413,0 -1.002918,-3.448628 m -3.131917,-1.178867 2.815207,0 -1.073298,-3.800529 -0.334306,-1.847479 -0.03519,0 -0.334305,1.882669 -1.038108,3.765339"
