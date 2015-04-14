@@ -23,5 +23,6 @@ inkscape $curvas \
 
 # copiar archivos principales
 rm cartel-web.png cartel.svg
-cp carteles/$fecha-cartel-curvas.svg cartel.svg
+cp carteles/$fecha-cartel.svg cartel.svg
+cp carteles/$fecha-cartel-curvas.svg cartel-curvas.svg
 cp carteles/$fecha-cartel.png cartel-web.png
