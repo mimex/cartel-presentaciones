@@ -17,7 +17,7 @@
    sodipodi:version="0.32"
    inkscape:version="0.91 r13725"
    version="1.0"
-   sodipodi:docname="201505-cartel.svg"
+   sodipodi:docname="201506-cartel.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="./cartel-presentaciones.png"
    inkscape:export-xdpi="300"
@@ -2425,7 +2425,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
      inkscape:cx="327.42365"
-     inkscape:cy="417.61473"
+     inkscape:cy="587.32036"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="500px"
@@ -2455,15 +2455,11 @@
      id="layer2"
      inkscape:label="fondo"
      style="display:inline">
-    <rect
-       ry="0"
-       y="-990.4082"
-       x="0.25430465"
-       height="993.79633"
-       width="771.1424"
-       id="rect3096"
+    <path
        style="display:inline;fill:#f6ffd5;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       transform="scale(1,-1)" />
+       d="m 0.25430465,990.4082 c 257.04746535,0 514.09492535,0 771.14239535,0 0,-331.26544 0,-662.53088 0,-993.7963226 -257.04747,0 -514.09493,0 -771.14239535,0 0,331.2654426 0,662.5308826 0,993.7963226 z"
+       id="rect3096"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2712,7 +2708,7 @@
              y="-537.24194"
              x="29.006849"
              id="tspan5845"
-             sodipodi:role="line">mayo 2015</tspan></text>
+             sodipodi:role="line">junio 2015</tspan></text>
       </g>
       <text
          xml:space="preserve"
@@ -2845,7 +2841,7 @@
          x="384.21143"
          y="-514.19067"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow Condensed';text-align:center;text-anchor:middle;fill:#0d1f39;fill-opacity:1"
-         id="tspan8617">¡Asiste a nuestras pláticas y talleres del mes de mayo<tspan
+         id="tspan8617">¡Asiste a nuestras pláticas y talleres del mes de junio<tspan
    style="font-weight:bold"
    id="tspan9040">!</tspan></tspan></text>
     <flowRoot
@@ -3080,54 +3076,54 @@
     <text
        sodipodi:linespacing="125%"
        id="text8626-5"
-       y="-83.652969"
-       x="417.40042"
+       y="-93.652969"
+       x="251.40042"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:54.2223053px;line-height:125%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow Bold Condensed';letter-spacing:0px;word-spacing:0px;display:inline;fill:#241c1c;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-weight:normal;font-size:24.15331459px;-inkscape-font-specification:'PT Sans Narrow Condensed';text-align:center;letter-spacing:2.66996884px;text-anchor:middle;fill:#241c1c;fill-opacity:1"
-         y="-83.652969"
-         x="422.64139"
+         y="-93.652969"
+         x="256.64139"
          sodipodi:role="line"
-         id="tspan5827">Sábados de mayo </tspan><tspan
+         id="tspan5827">Sábados de junio </tspan><tspan
          style="font-weight:bold;font-size:24.15331459px;-inkscape-font-specification:'PT Sans Narrow Condensed';text-align:center;letter-spacing:0.98763716px;text-anchor:middle;fill:#241c1c;fill-opacity:1"
-         y="-53.461327"
-         x="417.89423"
+         y="-63.461327"
+         x="251.89424"
          sodipodi:role="line"
          id="tspan4640"><tspan
    id="tspan5835"
    style="font-weight:normal;font-size:24.15331459px;-inkscape-font-specification:'PT Sans Narrow Condensed';text-align:center;letter-spacing:0.98763716px;text-anchor:middle;fill:#241c1c;fill-opacity:1">a las </tspan>3pm</tspan><tspan
          style="font-weight:bold;font-size:18.71154785px;-inkscape-font-specification:'PT Sans Narrow Condensed';text-align:center;letter-spacing:0.98763716px;text-anchor:middle;fill:#333333;fill-opacity:1"
-         y="-28.621035"
-         x="417.89423"
+         y="-38.621033"
+         x="251.89424"
          sodipodi:role="line"
          id="tspan4656">http://cabal.mx/CursoDePython.php</tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.40003586px;line-height:125%;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.98999999;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       x="426.08502"
-       y="-156.61682"
+       x="260.08502"
+       y="-166.61682"
        id="text4892"
        sodipodi:linespacing="125%"><tspan
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:38.64530563px;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow Bold Condensed';text-align:center;letter-spacing:0.15902632px;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
          sodipodi:role="line"
          id="tspan4894"
-         x="426.16455"
-         y="-156.61682">Curso de Python</tspan><tspan
+         x="260.16455"
+         y="-166.61682">Curso de Python</tspan><tspan
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
          sodipodi:role="line"
-         x="426.08502"
-         y="-108.31019"
+         x="260.08502"
+         y="-118.31019"
          id="tspan8509" /></text>
     <text
        sodipodi:linespacing="125%"
        id="text8626"
-       y="-116.95218"
-       x="316.63306"
+       y="-126.95218"
+       x="150.63306"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:54.2223053px;line-height:125%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow Bold Condensed';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-weight:normal;font-size:33.81463623px;-inkscape-font-specification:'PT Sans Narrow Condensed';fill:#333333"
-         y="-116.95218"
-         x="316.63306"
+         y="-126.95218"
+         x="150.63306"
          id="tspan8628"
          sodipodi:role="line"><tspan
            id="tspan5842"
@@ -3136,7 +3132,7 @@
            id="tspan10959"> Richard Couture</tspan></tspan></text>
     <g
        id="g5805"
-       transform="matrix(1.2275193,0,0,1.2275193,-18.56784,27.538722)">
+       transform="matrix(1.2275193,0,0,1.2275193,-184.56784,17.538722)">
       <path
          d="m 225.30529,-175.62086 c -2.89877,0.0135 -5.66702,0.2607 -8.10281,0.69171 -7.1755,1.26767 -8.47829,3.92102 -8.47829,8.81427 l 0,6.46247 16.95659,0 0,2.15416 -16.95659,0 -6.36367,0 c -4.92806,0 -9.24321,2.96204 -10.59293,8.59687 -1.55689,6.45882 -1.62594,10.48924 0,17.23328 1.20534,5.02 4.08384,8.59687 9.0119,8.59687 l 5.83006,0 0,-7.74707 c 0,-5.59679 4.84248,-10.53364 10.59293,-10.53364 l 16.93683,0 c 4.71462,0 8.4783,-3.88186 8.4783,-8.61663 l 0,-16.14631 c 0,-4.59534 -3.87668,-8.04733 -8.4783,-8.81427 -2.91289,-0.48489 -5.93526,-0.70518 -8.83402,-0.69171 z m -9.17001,5.19765 c 1.75151,0 3.18183,1.4537 3.18183,3.24112 0,1.78109 -1.43032,3.22136 -3.18183,3.22136 -1.75777,0 -3.18183,-1.44027 -3.18183,-3.22136 0,-1.78742 1.42406,-3.24112 3.18183,-3.24112 z"
          style="fill:url(#linearGradient1478);fill-opacity:1"
@@ -3148,5 +3144,60 @@
          id="path1950"
          inkscape:connector-curvature="0" />
     </g>
+    <g
+       id="g5323"
+       transform="translate(-14,6)">
+      <path
+         id="path4954-9"
+         d="m 511.18878,-204.95495 c 0.44227,1.72178 0.65098,3.50538 0.58215,5.34127 -0.39522,10.54061 -9.58408,19.21541 -21.74342,21.40867 3.50527,4.93796 9.78281,8.32539 17.01342,8.68864 3.81315,2.67919 9.33031,4.77365 17.94488,5.80697 -3.01741,-2.16232 -6.60232,-3.98577 -7.24781,-7.61165 7.23712,-2.99669 12.12401,-9.33046 11.86137,-16.53314 -0.32231,-8.84054 -8.28284,-15.95945 -18.41059,-17.10076 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.98999999;fill:#88aa00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.30000001;marker:none;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4954-3"
+         d="m 480.83932,-224.8239 c -14.703,0.24089 -26.74694,9.83479 -27.20109,21.94719 -0.34315,9.15149 6.02921,17.19365 15.48526,21.00118 -0.84337,4.60691 -5.51737,6.91634 -9.45998,9.66373 11.25586,-1.31293 18.46394,-3.97467 23.44621,-7.37878 14.25609,-0.69645 25.65388,-10.13753 26.09506,-21.90353 0.4688,-12.50311 -11.59445,-22.94779 -26.93917,-23.32979 -0.47953,-0.0113 -0.95198,-0.007 -1.42629,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.98999999;fill:#445500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.30000001;marker:none;enable-background:accumulate" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:33.03086472px;line-height:121.00000381%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow Bold Condensed';letter-spacing:0px;word-spacing:0px;display:inline;fill:#333333;fill-opacity:1;stroke:none"
+       x="615.96216"
+       y="-159.23965"
+       id="text9122"
+       sodipodi:linespacing="121%"><tspan
+         sodipodi:role="line"
+         x="619.03833"
+         y="-159.23965"
+         style="font-weight:bold;font-size:30px;line-height:114.99999762%;-inkscape-font-specification:'PT Sans Narrow Condensed';text-align:center;text-anchor:middle;fill:#333333"
+         id="tspan10957">Cómo mejorar </tspan><tspan
+         sodipodi:role="line"
+         x="619.03833"
+         y="-124.73965"
+         style="font-weight:bold;font-size:30px;line-height:114.99999762%;-inkscape-font-specification:'PT Sans Narrow Condensed';text-align:center;text-anchor:middle;fill:#333333"
+         id="tspan4697">el sistema educativo </tspan><tspan
+         sodipodi:role="line"
+         x="615.96216"
+         y="-88.58757"
+         style="font-weight:bold;font-size:30px;line-height:122.00000286%;-inkscape-font-specification:'PT Sans Narrow Condensed';text-align:center;text-anchor:middle;fill:#333333"
+         id="tspan4699"><tspan
+   id="tspan5321"
+   style="font-weight:bold;font-size:30px;line-height:114.99999762%;-inkscape-font-specification:'PT Sans Narrow Condensed';text-align:center;text-anchor:middle;fill:#333333">utilizando </tspan>Open Source</tspan><tspan
+         sodipodi:role="line"
+         x="618.8894"
+         y="-54.387028"
+         style="font-weight:normal;font-size:27.5px;line-height:114.99999762%;-inkscape-font-specification:'PT Sans Narrow Condensed';text-align:center;text-anchor:middle;fill:#333333"
+         id="tspan4693"><tspan
+   style="line-height:122.00000286%"
+   id="tspan4724">po</tspan>r Raúl González </tspan><tspan
+         sodipodi:role="line"
+         x="618.8894"
+         y="-22.351439"
+         style="font-weight:normal;font-size:27.5px;line-height:114.99999762%;-inkscape-font-specification:'PT Sans Narrow Condensed';text-align:center;text-anchor:middle;fill:#333333"
+         id="tspan4701">y Paul Barajas </tspan><tspan
+         sodipodi:role="line"
+         x="615.96216"
+         y="4.7499895"
+         id="tspan9130"
+         style="font-weight:bold;font-size:22.5px;line-height:114.99999762%;-inkscape-font-specification:'PT Sans Narrow Condensed';text-align:center;text-anchor:middle;fill:#333333"> junio 6 a las 5pm</tspan></text>
   </g>
 </svg>
